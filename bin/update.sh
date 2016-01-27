@@ -53,4 +53,28 @@ wget https://cdn.scratch.mit.edu/scratchr2/static/__29cebbddad1a2303315dedb62fd7
 
 cd ../.. # downloads
 
+mkdir "Scratch 1"
+cd "Scratch 1"
+# from https://scratch.mit.edu/scratch_1.4/
 
+mkdir Linux
+cd Linux
+echo "Scratch for Linux"
+
+wget http://ubuntu.media.mit.edu/ubuntu//pool/universe/s/scratch/scratch_1.4.0.6~dfsg1-5~ubuntu12.04.1_all.deb
+
+cd ..
+mkdir Windows
+cd Windows
+echo "Scratch for Windows"
+
+wget http://download.scratch.mit.edu/ScratchInstaller1.4.exe
+
+cd ..
+mkdir "MacOS X"
+cd "MacOS X"
+echo "Scratch for MacOS X"
+
+wget http://download.scratch.mit.edu/MacScratch1.4.dmg
+
+cd ../.. # downloads
