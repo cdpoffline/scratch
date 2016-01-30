@@ -1,5 +1,6 @@
 overview:
-  image: overview.jpg
-  name: Scratch
-  text: Programmiere deine eigenen Spiele, Filme und Geschichten mit Scratch.
-  category: blocks
+  blocks:
+    scratch:
+#      name: Scratch
+      text: Erstelle deine eigenen Spiele, Filme und Geschichten mit Scratch.
+      module: scratch
