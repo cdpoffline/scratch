@@ -1,6 +1,7 @@
 overview:
   blocks:
     scratch:
-#      name: Scratch
+#      image: overview.jpg
+      name: Scratch
       text: Erstelle deine eigenen Spiele, Filme und Geschichten mit Scratch.
       module: scratch
