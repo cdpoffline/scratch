@@ -2,6 +2,10 @@ overview:
   blocks:
     scratch:
 #      image: overview.jpg
-      name: Scratch
-      text: Erstelle deine eigenen Spiele, Filme und Geschichten mit Scratch.
+      name:
+        en-en: Scratch
+        de-de: Scratch
+      text: 
+        en-en: Create your own computer games, movies and stories using Scratch.
+        de-de: Erstelle deine eigenen Spiele, Filme und Geschichten mit Scratch.
       module: scratch
