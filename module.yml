@@ -5,7 +5,9 @@ overview:
       name:
         en-en: Scratch
         de-de: Scratch
-      text: 
+        it-it: Scratch
+      text:
         en-en: Create your own computer games, movies and stories using Scratch.
         de-de: Erstelle deine eigenen Spiele, Filme und Geschichten mit Scratch.
+        it-it: Crea videogame, film e storie con Scratch.
       module: scratch
